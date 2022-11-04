@@ -1,7 +1,7 @@
 const userList: userListType = {
-    users: ["oss@2ld7nn.onmicrosoft.com"],
+    users: ["Yuki@2ld7nn.onmicrosoft.com"],
     nickname: {
-        "oss@2ld7nn.onmicrosoft.com": '🤝 好事',
+        "Yuki@2ld7nn.onmicrosoft.com": '🤝 好事',
     }
 }
 export default userList;
